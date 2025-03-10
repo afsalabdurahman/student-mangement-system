@@ -1,5 +1,5 @@
-![Team Photo](images/team.jpg)
-(public/screencapture-file-C-Users-user-Desktop-dekete-student-mangement-system-public-index-html-2025-03-10-21_40_53.png)
+
+![Team Photo](public/screencapture-file-C-Users-user-Desktop-dekete-student-mangement-system-public-index-html-2025-03-10-21_40_53.png)
 
 # Student Management System - TypeScript
 
